@@ -33,8 +33,8 @@
                         aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                         <i class="bi bi-list"></i>
                     </button>
-                    <a href="tel:09211901147" class="btn btn-success d-lg-block d-none">
-                        09211901147 <i class="bi bi-telephone-fill"></i></a>
+                    <a href="tel:09933665300" class="btn btn-success d-lg-block d-none">
+                        09933665300 <i class="bi bi-telephone-fill"></i></a>
                     <div class="collapse navbar-collapse" id="navbarNavDropdown">
                         <ul class="navbar-nav ml-auto mr-auto">
                             <li class="nav-item">
@@ -253,23 +253,23 @@
                 <div>
                     <img src="img$icons/portrait-beautiful-young-woman-standing-grey-wall.png" alt="" /><br />
                     <h3>مارال</h3>
-                    <h5>فروش تیرآهن <br>09125554444</h5>
+                    <h5>فروش تیرآهن <br>09933665300</h5>
                 </div>
                 <div>
                     <img src="img$icons/portrait-handsome-young-man-with-crossed-arms.png" alt="" /><br />
                     <h3>رضا</h3>
-                    <h5>فروش تیرآهن <br>09125554444</h5>
+                    <h5>فروش تیرآهن <br>09933665300</h5>
                 </div>
                 <div>
                     <img src="img$icons/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer.png"
                         alt="" /><br />
                     <h3>سعید</h3>
-                    <h5>فروش تیرآهن <br>09125554444</h5>
+                    <h5>فروش تیرآهن <br>09933665300</h5>
                 </div>
                 <div>
                     <img src="img$icons/mand-holding-cup.png" alt="" /><br />
                     <h3>مهران</h3>
-                    <h5>فروش تیرآهن <br>09125554444</h5>
+                    <h5>فروش تیرآهن <br>09933665300</h5>
                 </div>
             </div>
         </section>
@@ -410,17 +410,15 @@
                     <h4>راه های ارتباطی</h4>
                     <div class="row">
                         <a href="" class="text-right text-dark"><i style="font-size: 30px; color: black"
-                                class="bi bi-geo-alt m-5"></i>تهران، شهرک غرب، بلوار حافظ، خیابان 22، ساختمان الماس،
-                            بلوک
-                            3</a>
+                                class="bi bi-geo-alt m-5"></i>البرز - کرج</a>
                     </div>
                     <div class="row">
                         <a href="" class="text-right text-dark"><i style="font-size: 30px; color: black"
-                                class="bi bi-envelope m-4"></i>shahabmohammadi7887@gmail.com</a>
+                                class="bi bi-envelope m-4"></i>ali.bg1385@gmail.com</a>
                     </div>
                     <div class="row">
                         <a href="" class="text-right text-dark"><i style="font-size: 30px; color: black"
-                                class="bi bi-telephone m-4"></i>0912000000</a>
+                                class="bi bi-telephone m-4"></i>09933665300</a>
                     </div>
                 </div>
             </div>
