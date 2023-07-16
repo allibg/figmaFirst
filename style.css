@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+article #first-header header #name {
+  border-right: #56b161 2px solid;
+  text-align: right;
+  padding: 10px;
+}
+
+article #first-header {
+  background-image: url(img$icons/Rectangle\ 39679.png);
+}
+
+article section h2 {
+  border-right: #56b161 2px solid;
+  text-align: right;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+#video-bg {
+  width: 80%;
+  position: relative;
+}
+
+#video-cover {
+  border-radius: 10%;
+  width: 70%;
+  left: 10%;
+  margin-top: 10%;
+  position: absolute;
+}
+
+#video-play {
+  position: absolute;
+  width: 10%;
+  left: 40%;
+  margin-top: 25%;
+}
+
+#team-div {
+  overflow-x: hidden;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  overflow-x: auto;
+  margin-bottom: 20px;
+}
+#team-div h5{
+color: white;
+}
+
+#team-div div {
+  margin: 2px 2px;
+  border: rgba(0, 0, 0, 0.185) 1px solid;
+  border-radius: 5%;
+  box-shadow: 2px 2px rgba(0, 0, 0, 0.445);
+  transition: 0.5s;
+}
+
+#team-div div:hover {
+  background-color: red;
+}
+
+#lastArticles {
+  display: flex;
+  justify-content: space-between;
+  overflow-x: auto;
+}
+
+#lastArticles img {
+  border-start-end-radius: 3%;
+  border-start-start-radius: 3%;
+  width: 350px;
+}
+
+#lastArticles div {
+  margin-left: 10px;
+  margin-right: 10px;
+  box-shadow: 2px 3px rgba(0, 0, 0, 0.445);
+  border-radius: 3%;
+  width: 350px;
+  margin-bottom: 20px;
+}
+#rightBTN{
+  position: absolute;
+  right: 5px;
+  margin-top: -20%;
+  color: black;
+}
+#rightBTN i{
+  font-size: 30px;
+}
+#leftBTN{
+  position: absolute;
+  left: 5px;
+  margin-top: -20%;
+  color: black;
+}
+#leftBTN i{
+  font-size: 30px;
+}
+#lastArticles h4{
+margin-bottom: 30px;
+}
+#lastArticles p{
+  margin: 10px;
+  margin-bottom: 20px;
+}
+footer{
+  background-image: url(img$icons/Rectangle\ 39679.png);
+}
+@media only screen and (min-width: 1000px) {
+  #lastArticles::-webkit-scrollbar {
+    display: none;
+  }
+  
+
+  #lastArticles {
+    -ms-overflow-style: none;  
+    scrollbar-width: none;  
+  }
+}
